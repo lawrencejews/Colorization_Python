@@ -1,4 +1,4 @@
 # Colorization_Python
 Colorization Optimization
-The misc.imsave change to imageio.imwrite
+The misc.imsave changed to imageio.imwrite
 
